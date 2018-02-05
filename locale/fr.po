@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-31 11:28+0200\n"
+"POT-Creation-Date: 2018-02-06 00:17+0800\n"
 "PO-Revision-Date: 2017-07-31 09:18+0200\n"
 "Last-Translator: fat115 <fat115@framasoft.org>\n"
 "Language-Team: \n"
@@ -37,6 +37,19 @@ msgstr "Bloc de miel"
 #: bunny.lua
 msgid "Bunny"
 msgstr "Lapin"
+
+#: bunny.lua
+msgid "Raw Rabbit"
+msgstr ""
+
+#: bunny.lua
+#, fuzzy
+msgid "Cooked Rabbit"
+msgstr "Rat cuit"
+
+#: bunny.lua
+msgid "Rabbit Hide"
+msgstr ""
 
 #: chicken.lua
 msgid "Chicken"
@@ -166,6 +179,15 @@ msgstr "jaune"
 #, fuzzy
 msgid "@1 Sheep"
 msgstr "Mouton @1"
+
+#: sheep.lua
+msgid "Raw Mutton"
+msgstr ""
+
+#: sheep.lua
+#, fuzzy
+msgid "Cooked Mutton"
+msgstr "Rat cuit"
 
 #: warthog.lua
 msgid "Warthog"

@@ -2,12 +2,12 @@
 # Copyright (c) 2014 Krupnov Pavel and 2016 TenPlus1
 # This file is distributed under the same license as the MOBS ANIMAL package.
 # Hamlet <h4mlet@riseup.net>, 2017.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Italian localization file for the Mobs Animal mod\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-07-31 11:28+0200\n"
+"POT-Creation-Date: 2018-02-06 00:17+0800\n"
 "PO-Revision-Date: 2017-08-18 00:56+0100\n"
 "Last-Translator: H4mlet <h4mlet@riseup.net>\n"
 "Language-Team: \n"
@@ -37,6 +37,19 @@ msgstr "Blocco di miele"
 #: bunny.lua
 msgid "Bunny"
 msgstr "Coniglietto"
+
+#: bunny.lua
+msgid "Raw Rabbit"
+msgstr ""
+
+#: bunny.lua
+#, fuzzy
+msgid "Cooked Rabbit"
+msgstr "Ratto cotto"
+
+#: bunny.lua
+msgid "Rabbit Hide"
+msgstr ""
 
 #: chicken.lua
 msgid "Chicken"
@@ -165,6 +178,15 @@ msgstr "Gialla"
 #: sheep.lua
 msgid "@1 Sheep"
 msgstr "Pecora @1"
+
+#: sheep.lua
+msgid "Raw Mutton"
+msgstr ""
+
+#: sheep.lua
+#, fuzzy
+msgid "Cooked Mutton"
+msgstr "Ratto cotto"
 
 #: warthog.lua
 msgid "Warthog"
